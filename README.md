@@ -5,7 +5,7 @@ I'm a junior **Computer Engineering** student at FES Aragón, passionate about e
 
 ## Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelotito&layout=compact&theme=radical&bg_color=0c1116&text_color=FFFFFF" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelotito&layout=compact&theme=radical&bg_color=0c1116&text_color=FFFFFF" width="600px">
 </div>
 
 ## Projects
@@ -16,7 +16,7 @@ As a junior developer, I'm actively working on personal and collaborative projec
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axelotito&show_icons=true&theme=radical&bg_color=0c1116&text_color=FFFFFF&icon_color=FFFFFF" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axelotito&show_icons=true&theme=radical&bg_color=0c1116&text_color=FFFFFF&icon_color=FFFFFF" width="600px">
 </div>
 
 ## Contact Me
