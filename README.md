@@ -22,7 +22,7 @@ As a junior developer, I'm actively working on personal and collaborative projec
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/luis-axel-cruz-granados-42ba2530a)
 - [GitHub](https://github.com/Axelotito)
-- [Email](tu-email@example.com)
+- [Email](axel.cruz.gr@gmail.com)
 
 ## Let's Connect!
 Feel free to explore my repositories and connect with me. I'm eager to learn, collaborate, and grow in the tech community!
