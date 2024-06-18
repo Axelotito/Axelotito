@@ -4,7 +4,7 @@
 I'm a junior **Computer Engineering** student at FES Aragón, passionate about exploring the world of software development and computer systems.
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelotito&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelotito&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF)
 
 ## Projects
 As a junior developer, I'm actively working on personal and collaborative projects to enhance my skills in:
@@ -13,7 +13,7 @@ As a junior developer, I'm actively working on personal and collaborative projec
 - Algorithms and Data Structures
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axelotito&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axelotito&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/luis-axel-cruz-granados-42ba2530a)
