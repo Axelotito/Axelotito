@@ -18,7 +18,7 @@ As a junior developer, I'm actively working on personal and collaborative projec
  <div align="center">
   [Check out my progress!](https://www.codedex.io/@Axelotito/30-nites-of-code)  
   ![@Axelotito #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Axelotito)
-<div>
+ </div>
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/luis-axel-cruz-granados-42ba2530a)
 - [GitHub](https://github.com/Axelotito)
