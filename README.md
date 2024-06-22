@@ -14,10 +14,9 @@ As a junior developer, I'm actively working on personal and collaborative projec
 - Software Development
 - Algorithms and Data Structures
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axelotito&show_icons=true&theme=radical&bg_color=0c1116&text_color=FFFFFF&icon_color=FFFFFF" width="500px">
-</div>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Axelotito/30-nites-of-code)  
+  ![@Axelotito #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Axelotito)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/luis-axel-cruz-granados-42ba2530a)
